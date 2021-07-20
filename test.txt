@@ -1,4 +1,0 @@
-hello this is my first git
-this is second line of git
-this is new line of git
-this is my remote change in file
